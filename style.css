@@ -51,6 +51,9 @@ body {
     opacity: 1;
   }
 }
+.container #display::placeholder{
+  text-align: center;
+}
 
 
 #display {
